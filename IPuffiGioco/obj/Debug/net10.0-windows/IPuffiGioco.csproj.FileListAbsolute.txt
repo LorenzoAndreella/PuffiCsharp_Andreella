@@ -1,0 +1,16 @@
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\bin\Debug\net10.0-windows\IPuffiGioco.exe
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\bin\Debug\net10.0-windows\IPuffiGioco.deps.json
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\bin\Debug\net10.0-windows\IPuffiGioco.runtimeconfig.json
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\bin\Debug\net10.0-windows\IPuffiGioco.dll
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\bin\Debug\net10.0-windows\IPuffiGioco.pdb
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\obj\Debug\net10.0-windows\IPuffiGioco.Form1.resources
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\obj\Debug\net10.0-windows\IPuffiGioco.csproj.GenerateResource.cache
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\obj\Debug\net10.0-windows\IPuffiGioco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\obj\Debug\net10.0-windows\IPuffiGioco.AssemblyInfoInputs.cache
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\obj\Debug\net10.0-windows\IPuffiGioco.AssemblyInfo.cs
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\obj\Debug\net10.0-windows\IPuffiGioco.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\obj\Debug\net10.0-windows\IPuffiGioco.dll
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\obj\Debug\net10.0-windows\refint\IPuffiGioco.dll
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\obj\Debug\net10.0-windows\IPuffiGioco.pdb
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\obj\Debug\net10.0-windows\IPuffiGioco.genruntimeconfig.cache
+C:\Users\lorenzo\Desktop\c sharp\IPuffiGioco\IPuffiGioco\obj\Debug\net10.0-windows\ref\IPuffiGioco.dll
