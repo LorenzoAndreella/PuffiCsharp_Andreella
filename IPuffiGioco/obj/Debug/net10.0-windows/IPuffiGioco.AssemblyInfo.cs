@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IPuffiGioco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f71fbda22591a373237dc1f157ad4512448f5a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("IPuffiGioco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IPuffiGioco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
