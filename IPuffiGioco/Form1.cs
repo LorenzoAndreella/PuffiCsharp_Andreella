@@ -128,6 +128,8 @@ namespace IPuffiGioco
 
                 } while (pnlCasetta.Bounds.IntersectsWith(pnlPuffo.Bounds));
 
+                PosAberi();
+
             }
 
             //controllo puffo-gargamella
@@ -159,7 +161,6 @@ namespace IPuffiGioco
                     turnoPuffo = false;
                     turno = 0;
                     lblTurno.Text = "Turno: Gargamella";
-                    PosAberi();
                     return;
                 }
             }
@@ -170,7 +171,6 @@ namespace IPuffiGioco
                     turnoPuffo = true;
                     turno = 0;
                     lblTurno.Text = "Turno: Puffo";
-                    PosAberi();
                     return;
                 }
             }
